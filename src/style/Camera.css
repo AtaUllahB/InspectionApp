@@ -1,0 +1,10 @@
+
+
+video {
+  position: absolute;
+  top: 0;
+  
+  width: calc(100vw - 250px); /* Full viewport width minus sidebar width */
+  height: 100vh;
+  object-fit: cover;
+}

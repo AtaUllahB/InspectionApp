@@ -1,0 +1,26 @@
+description: Ultralytics ResidenceBest model trained on Type_A_new\data.yaml
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2024-02-27T04:35:12.196718'
+version: 8.1.19
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: Cabinet
+  1: Door-Lock
+  2: Drainage
+  3: Exhaust
+  4: Heater
+  5: Mirror
+  6: Roof
+  7: Shower
+  8: Sink
+  9: Skid
+  10: Smoke-Detector
+  11: Sprinkler
+  12: Toilet-Seat
+  13: Window
